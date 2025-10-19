@@ -1,4 +1,4 @@
-# ESA phi-lab challenge 'Enhnced Sentinel 2 Agriculture'
+# ESA phi-lab challenge 'Enhanced Sentinel 2 Agriculture'
 
 The aim of this challenge is to create AI methods that can exploit temporal information of Sentinel-2 images to artificially enhance its spacial resolution, i.e. the physical size of a pixel in an image. 
 
